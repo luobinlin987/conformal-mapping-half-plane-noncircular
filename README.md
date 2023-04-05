@@ -1,4 +1,6 @@
-# This is the README file for the FORTRAN codes related to the manuscript "On solution of conformal mapping for a lower half plane containing a symmetrical noncircular cavity".
+# Codes in this repo are for paper in arXiv DOI:10.48550/arXiv.2209.05752
+
+#This is the README file for the FORTRAN codes related to the manuscript "On solution of conformal mapping for a lower half plane containing a symmetrical noncircular cavity".
 
 # The FORTRAN codes are full realization of the pseudocodes in the manuscript.
 
