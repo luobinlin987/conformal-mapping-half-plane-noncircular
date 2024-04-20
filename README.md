@@ -1,4 +1,4 @@
-# Codes in this repo are for paper in arXiv DOI:10.48550/arXiv.2209.05752
+# Codes in this repo are for paper in arXiv DOI:10.48550/arXiv.2209.05752, also for software copyright application.
 
 #This is the README file for the FORTRAN codes related to the manuscript "On solution of conformal mapping for a lower half plane containing a symmetrical noncircular cavity".
 
